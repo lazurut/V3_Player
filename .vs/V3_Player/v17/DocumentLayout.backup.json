@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogdan\\Documents\\V3_Player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C61D32-4871-4A87-927D-6AEA07791200}|V3_TEXTURE\\PLAYER_V3.csproj|c:\\users\\bogdan\\documents\\v3_player\\v3_texture\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C61D32-4871-4A87-927D-6AEA07791200}|V3_TEXTURE\\PLAYER_V3.csproj|solutionrelative:v3_texture\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\Documents\\V3_Player\\V3_TEXTURE\\Class1.cs",
+              "RelativeDocumentMoniker": "V3_TEXTURE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\Documents\\V3_Player\\V3_TEXTURE\\Class1.cs*",
+              "RelativeToolTip": "V3_TEXTURE\\Class1.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvx8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:53:55.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
